@@ -1,1 +1,5 @@
-﻿print("Hello Jenkins - Build 2")
+﻿print("Hello from Jenkins!")
+print("This is a sample Python script to demonstrate Jenkins integration.")
+print("Build Completed Successfully!")
+print("Testing Completed Successfully!")
+print("Deployment Completed Successfully!") 
